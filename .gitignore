@@ -55,3 +55,11 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio and local project files
+.vs/
+*.user
+*.suo
+
+# Local test and screenshot data
+.testdata*/
